@@ -17,7 +17,7 @@ This repository holds files documenting an 8K Data Pack module for the Psion Org
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 [![Static Badge](https://img.shields.io/badge/format-GERBER%20PCB-blue?style=flat-square)](https://en.wikipedia.org/wiki/Gerber_format)
 <br>  
-  The circuit is also applicable to the devices Top Slot interface. The circuit presents a Linear mode addressing scheme (though note the effevtive addressing resulting from the pin roouting).   <br>
+  Data Packs trypically reside in <a  targer="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/DataPak">side slot housings</a? though the circuit is also applicable to the devices Top Slot interface. The circuit presents a Linear mode addressing scheme (though note the effevtive addressing resulting from the pin roouting).   <br>
   
   The default repository format for 3D files is STEP (<a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/ISO_10303"> ISO 10303</a> ) due to its high fidelity.  { STL files are surface geometry as opposed to solid model representations, often containing export processing artifacts }. 
 <br>  
