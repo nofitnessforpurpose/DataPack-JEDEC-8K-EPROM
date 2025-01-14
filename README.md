@@ -11,9 +11,9 @@ This repository holds files documenting an 8K Data Pack module for the Psion Org
 <BR>
 
 [![Organiser](https://img.shields.io/badge/gadget-Organiser_II-blueviolet.svg?%3D&style=flat-square)]([https://en.wikipedia.org/wiki/Psion_Organiser])
-[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/TopSlotSpy?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotSpy/blob/main/LICENSE) 
-[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/TopSlotSpy/graphs/commit-activity)
-![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/TopSlotSpy?style=flat-square)
+[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM?style=flat-square)](https://github.com/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM/blob/main/LICENSE) 
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM/graphs/commit-activity)
+![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM?style=flat-square)
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 [![Static Badge](https://img.shields.io/badge/format-GERBER%20PCB-blue?style=flat-square)](https://en.wikipedia.org/wiki/Gerber_format)
 <br>  
