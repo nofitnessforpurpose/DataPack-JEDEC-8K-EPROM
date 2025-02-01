@@ -30,6 +30,13 @@ This repository holds files documenting an 8K Data Pack module for the Psion Org
 <a target="_blank" rel="noopener noreferrer" href="https://www.kicad.org/" >KiCad </a> may prove suitable for viewing GERBER files.
 <br>
 
+### On-Line Preview   
+Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
+ - PCB - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM/blob/main/CAD/Data%20Pack%20-%208k.step
+">here</a>.  
+
+<BR>
+
 ## Considerations
 3D model(s) makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
 The PCB is currently beta and has not been tested, it remains your responsiblity to asses suitability!  
