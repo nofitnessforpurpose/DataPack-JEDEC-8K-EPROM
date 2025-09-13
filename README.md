@@ -1,7 +1,7 @@
 # 8K Data Pack - Pre-Release
 PSION Organiser I & II - 8K JEDEC Format EPROM Data Pack Memory
 
-This repository holds files documenting an 8K Data Pack module for the Psion Organiser 2 & Organiser 1 devices.
+This repository holds files documenting an 8K Data Pack module for the Psion Organiser 1 & Organiser 2 devices.
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
