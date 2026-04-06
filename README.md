@@ -5,7 +5,7 @@ This repository holds files documenting an 8K Data Pack module for the Psion Org
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM/blob/main/images/DP8K-02.jpg?raw=true" width="400px" alt="PSION Organiser II 8 K Data Pack Circuit. Image copyright (c) 14 January 2025 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/DataPack-JEDEC-8K-EPROM/blob/main/images/DP8K-02.jpg" width="400px" alt="PSION Organiser II 8 K Data Pack Circuit. Image copyright (c) 14 January 2025 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
